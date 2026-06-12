@@ -5,7 +5,6 @@
 
 _Building GenAI and Computer Vision systems that actually ship._
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirti-kshirsagar/)
 [![Email](https://img.shields.io/badge/Email-kirtidk@yahoo.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kirtidk@yahoo.com)
 
 ---
@@ -41,7 +40,7 @@ _Open to AI/ML Engineer roles. Let's connect :)_
 
 <!--
 **kirti-kshirsagar/kirti-kshirsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirti-kshirsagar/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
